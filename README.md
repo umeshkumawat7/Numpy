@@ -46,11 +46,3 @@ Covers two important concepts for efficiency and data storage.
 - **File I/O**: Saving arrays as `.npy` files and loading them back.  
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/umeshkumawat7/Numpy.git
-   cd Numpy
